@@ -3,7 +3,7 @@
 
 <img src="assets/rem.gif" height="150" alt="Rem"/>
 
-# Hi, I'm hantang-xy (=^･ω･^=)
+# Hi, I'm YEIX (=^･ω･^=)
 
 ### Talk is cheap. Show me the code.
 
